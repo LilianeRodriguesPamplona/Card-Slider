@@ -1,0 +1,1 @@
+Controle deslizante de cartão!
